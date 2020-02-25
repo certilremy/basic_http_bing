@@ -1,6 +1,6 @@
 # Rest Client
 
-> `rest-client` gem.
+> `rest-client` gem. 
 
 <p align="center">
     <img src="http.jpeg">
